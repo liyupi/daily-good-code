@@ -34,11 +34,9 @@ List<Post> postList = postService.lambdaQuery()
 
 在线访问：https://www.codecopy.cn/post/s8gdd5
 
-《小程序卡片》
-
 更多优质代码欢迎进入小程序查看！
 
-《小程序卡片》
+![代码小抄.png](..%2Fimgs%2F%E4%BB%A3%E7%A0%81%E5%B0%8F%E6%8A%84.png)
 
-《往期推荐》
+
 

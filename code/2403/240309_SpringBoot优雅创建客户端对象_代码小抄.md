@@ -42,7 +42,5 @@ public class DBClientConfig {
 
 在线访问：https://www.codecopy.cn/post/by4xa0
 
-（小程序）
-
-![](https://pic.yupi.icu/1/WX20240309-220207@2x.png)
+![代码小抄.png](..%2Fimgs%2F%E4%BB%A3%E7%A0%81%E5%B0%8F%E6%8A%84.png)
 

@@ -56,10 +56,6 @@ public void test(){
 
 在线访问：[https://codecopy.cn/post/92nqby](https://codecopy.cn/post/92nqby)
 
-《小程序卡片》
-
 更多优质代码欢迎进入小程序查看！
 
-《小程序卡片》
-
-《往期推荐》
+![代码小抄.png](..%2Fimgs%2F%E4%BB%A3%E7%A0%81%E5%B0%8F%E6%8A%84.png)
