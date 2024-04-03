@@ -30,9 +30,7 @@ Item item = Optional.ofNullable(itemService.lambdaQuery()
         .orElseThrow(RuntimeException::new);
 ```
 
-大家更喜欢哪种呢？欢迎投票并在评论区留下自己的看法。
-
-投票
+大家更喜欢哪种呢？
 
 完整代码片段来源于代码小抄，欢迎点击进入小程序阅读！
 
