@@ -1,4 +1,3 @@
-<a name="z5ZF1"></a>
 # 今日代码大赏 | try-catch 优雅使用
 
 在`Java`开发中，`try-catch`语句经常用于异常捕获。
