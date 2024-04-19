@@ -28,7 +28,7 @@ List<Post> postList = postService.lambdaQuery()
         .list();
 ```
 
-大家觉得哪种写法更好呢？欢迎在评论区留下自己的看法。
+大家觉得哪种写法更好呢？
 
 完整代码片段来源于代码小抄，欢迎点击进入小程序阅读！
 
